@@ -14,3 +14,6 @@ const userInformation : UserInterface = {
     startTrial: () => {
         return 'trial started';
     }}
+
+    // interface UserInterface extends AdminInterface {}, this is how we can extend the interface in TS 
+    // here , we are extending the interface adminInterface to userInterface

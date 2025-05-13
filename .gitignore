@@ -1,0 +1,5 @@
+# ignore only these files in the folder 
+purets/node_modules
+purets/package-lock.json
+purets/tsconfig.json
+purets/package.json
